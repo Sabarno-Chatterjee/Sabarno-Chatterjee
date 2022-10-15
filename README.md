@@ -1,3 +1,3 @@
 # Sabarno-Chatterjee
 
-I am learning python and SQL.
+I am learning Python, SQLand BASH.
